@@ -1,5 +1,5 @@
 {
-    "name": "galvao/DataAbstract",
+    "name": "galvao/data-abstract",
     "description": "An abstraction and generalization of Data and it's subsequent containers, aiming to provide a generalization that can handle all forms of data in the same manner.",
     "keywords": ["data", "database", "abstraction", "generalization"],
     "homepage": "https://github.com/galvao/data-abstract",

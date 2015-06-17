@@ -1,5 +1,5 @@
 <?php
-namespace DataAbstract
+namespace galvao\DataAbstract;
 
 /**
  * Abstraction for Driver objects

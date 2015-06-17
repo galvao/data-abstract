@@ -17,7 +17,7 @@
     },
     "autoload": { 
         "psr-4": {
-            "galvao\\DataAbstract\\": "src" 
+            "galvao\\DataAbstract\\": "src/data-abstract" 
         }
     }
 }
